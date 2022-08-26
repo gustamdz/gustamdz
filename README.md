@@ -40,6 +40,12 @@
 
 <br/>
 
+## **GitHub Estatísticas**
+
+<a href="https://github.com/gustamdz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustamdz&theme=dracula&hide_langs_below=1" />
+</a>
+
 <a href="https://github.com/gustamdz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustamdz&theme=dracula&show_icons=true" />
 </a>
