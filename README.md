@@ -2,8 +2,8 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando Análise e Desenvolvimento de Sistemas no <a href="https://estacio.br/">Estácio</a>.
-- 💼 &nbsp; Trabalhando como Estagiário Desenvolvimento de Sofware na <a href="https://www.alerj.rj.gov.br/">ALERJ</a>
-- 🌱 &nbsp; Aprendendo mais sobre C# e me aprimorando em JavaScript.
+- 💼 &nbsp; Trabalhando como Estagiário Desenvolvimento de Sofware na <a href="https://www.alerj.rj.gov.br/">ALERJ</a>.
+- 🌱 &nbsp; Aprendendo mais sobre C# e me aprimorando em Full-Stack.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
@@ -11,7 +11,7 @@
 
   ![C](https://img.shields.io/badge/C-333333?style=flat&logo=C&logoColor=007396)
   ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=Python&logoColor=007396)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=1572B6)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
