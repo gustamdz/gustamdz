@@ -1,5 +1,9 @@
-- 👋 Hi, I’m Gustavo Gomes
-- 👀 I’m interested in Systems Programming
-- 🌱 I’m currently learning Full Stack Development
-- 💞️ I’m looking to collaborate on new knowledges...
-- 📫 How to reach me gustavogalmeida7@gmail.com
+
+![](https://komarev.com/ghpvc/?username=gustamdz&color=006bed)
+
+<h3> :man: &nbsp;Sobre mim </h3>
+
+- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 &nbsp; Estudando ADS no <a>https://estacio.br/</a>.
+- 💼 &nbsp; Trabalhando como Desenvolvimento de Sofware na <a>https://www.alerj.rj.gov.br/</a>
+- 🌱 &nbsp; Aprendendo mais sobre C# e me aprimorando em JavaScript.
